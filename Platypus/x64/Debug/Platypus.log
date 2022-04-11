@@ -1,0 +1,17 @@
+﻿  Platypus.cpp
+C:\Users\PC\source\repos\Platypus\Platypus\Platypus.cpp(102,53): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\PC\source\repos\Platypus\Platypus\Platypus.cpp(104,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\source\repos\Platypus\Platypus\Platypus.cpp(118,49): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+  driver.cpp
+C:\Users\PC\source\repos\Platypus\Platypus\driver.cpp(7,21): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+C:\Users\PC\source\repos\Platypus\Platypus\driver.cpp(7,34): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Platypus.vcxproj -> C:\Users\PC\source\repos\Platypus\x64\Debug\Platypus.exe
